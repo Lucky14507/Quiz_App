@@ -8,6 +8,9 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
+import com.example.quiz_app.QuestionAnswer;
+import com.example.quiz_app.R;
+
 public class MainActivity extends AppCompatActivity implements View.OnClickListener{
     TextView questionTextView;
     TextView totalQuestionTextView;
